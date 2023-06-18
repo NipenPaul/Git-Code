@@ -31,3 +31,7 @@ git remote add origin https://github.com/NipenPaul/Git-Code.git
 step-6:
 git push -u origin master
 then, write github username and password
+
+
+// personal token for 90 days
+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
