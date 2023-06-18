@@ -24,3 +24,10 @@ git config user.email
 git config user.name
 
 git commit -m "first commit"
+
+step-5:
+git remote add origin https://github.com/NipenPaul/Git-Code.git
+
+step-6:
+git push -u origin master
+then, write github username and password
