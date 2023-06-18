@@ -1,0 +1,2 @@
+// instal git on ubuntu 
+sudo apt get git
