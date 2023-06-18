@@ -1,2 +1,26 @@
 // instal git on ubuntu 
 sudo apt get git
+// show git version
+git --version
+
+step-1: git init
+// check the floder .git folder created...
+
+step-2: git add fileName.txt
+git add .
+// all file added
+
+step-3:
+//check git status
+git status
+
+step-4:
+git commit -m "first commit"
+
+git config --global user.email "nipenpaultpi27@gmail.com"
+git config --global user.name "NipenPaul"
+
+git config user.email
+git config user.name
+
+git commit -m "first commit"
