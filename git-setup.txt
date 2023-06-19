@@ -37,3 +37,4 @@ then, write github username and password
 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
 
 git remote set-url origin https://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@github.com/NipenPaul/Git-Code
+git clone https://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@github.com/NipenPaul/Git-Code.git
