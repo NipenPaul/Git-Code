@@ -34,7 +34,7 @@ then, write github username and password
 
 
 // personal token for 90 days
-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
+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
 
 git remote set-url origin https://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@github.com/NipenPaul/Git-Code
 git clone https://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@github.com/NipenPaul/Git-Code.git
